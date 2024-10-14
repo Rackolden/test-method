@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.562a53ae.css",
+    "main.js": "/static/js/main.e8b31fba.js",
+    "static/media/card-cover2.png": "/static/media/card-cover2.602c631635f2ba28e087.png",
+    "static/media/landing-rs2-lighter.png": "/static/media/landing-rs2-lighter.3f2c3c61b3924c265c98.png",
+    "static/media/compromiso-min.png": "/static/media/compromiso-min.cb7a6b38feab0cb20380.png",
+    "static/media/card-carrousel3.png": "/static/media/card-carrousel3.0cc61d0d20872d7945cc.png",
+    "static/media/card-carrousel8.png": "/static/media/card-carrousel8.b5bee2872681fc702138.png",
+    "static/media/card-carrousel10.png": "/static/media/card-carrousel10.3e7f5fb0c9357c8ea26a.png",
+    "static/media/card-carrousel12.png": "/static/media/card-carrousel12.73a021b08e48b8e49cb3.png",
+    "static/media/card-carrousel1.png": "/static/media/card-carrousel1.d347ba2487f67a5d6bd7.png",
+    "static/media/card-carrousel7.png": "/static/media/card-carrousel7.faa53be7aa3ef377ce4a.png",
+    "static/media/card-carrousel4.png": "/static/media/card-carrousel4.737884d47e66d7d2b356.png",
+    "static/media/card-carrousel9.png": "/static/media/card-carrousel9.4d0fed89cdf7e5a71672.png",
+    "static/media/card-carrousel6.png": "/static/media/card-carrousel6.f25872b0728c69318b0e.png",
+    "static/media/card-carrousel5.png": "/static/media/card-carrousel5.5b7a30ea030b65e9a44e.png",
+    "static/media/card-carrousel11.png": "/static/media/card-carrousel11.e562cd5c78f36e230789.png",
+    "static/media/card-carrousel2.png": "/static/media/card-carrousel2.aed8f2cef424591924ca.png",
+    "static/media/profesionales-min.png": "/static/media/profesionales-min.de5257b7e1fe6eb41ace.png",
+    "static/media/trascendencia.png": "/static/media/trascendencia.923f8dbd79035544b21d.png",
+    "static/media/card-cover3.png": "/static/media/card-cover3.b1a04bf1b6eb6ee83bb3.png",
+    "static/media/nosotrosbodybg.png": "/static/media/nosotrosbodybg.c02b3d6bfedcb8de43bc.png",
+    "static/media/card-cover1.png": "/static/media/card-cover1.37ee3a4dc0902cc10d4c.png",
+    "index.html": "/index.html",
+    "main.562a53ae.css.map": "/static/css/main.562a53ae.css.map",
+    "main.e8b31fba.js.map": "/static/js/main.e8b31fba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562a53ae.css",
+    "static/js/main.e8b31fba.js"
+  ]
+}
